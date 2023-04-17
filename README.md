@@ -15,6 +15,8 @@ Pytorch >= 1.8
 
 [KAIST](https://soonminhwang.github.io/rgbt-ped-detection/) (S. Hwang, J. Park, N. Kim, Y. Choi, I. So Kweon, Multispectral pedestrian detection: Benchmark dataset and baseline, in: Proceedings of the IEEE conference on computer vision and pattern recognition, 2015, pp. 1037–1045.) is utilized to train LRRNet.
 
+## VGG-16 modal
+[google drive](https://drive.google.com/file/d/19vG7UPbumgElmul_r2-CBR2jp5dtI66a/view?usp=share_link)
 
 ## Fusion framework
 
