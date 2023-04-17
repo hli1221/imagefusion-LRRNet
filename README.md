@@ -18,10 +18,21 @@ Pytorch >= 1.8
 ## VGG-16 modal
 [google drive](https://drive.google.com/file/d/19vG7UPbumgElmul_r2-CBR2jp5dtI66a/view?usp=share_link)
 
-## Fusion framework
+## The difference between LRRNet and other architectures
 
+<img src="https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/fig-new-architecture.png" width="600">
 
+## Learnable LRR block
 
+<img src="https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/llrr-blocks-new.png" width="600">
+
+## LRRNet - Fusion framework
+
+<img src="https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/lrrnet-fusion-framework.png" width="600">
+
+## LLRR block for RGBT tracking - framework
+
+<img src="https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/fig-tracking-lrrnet-new.png" width="600">
 
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
