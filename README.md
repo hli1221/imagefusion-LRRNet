@@ -30,7 +30,7 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
 
 ```
 @article{li2021rfn,
-  title={RFN-Nest: An end-to-end residual fusion network for infrared and visible images},
+  title={{LRRNet: A novel representation learning guided fusion framework for infrared and visible images}},
   author={Li, Hui and Xu, Tianyang and Wu, Xiao-Jun and Lu, Jiwen and Kittler, Josef},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   note={DOI: 10.1109/TPAMI.2023.3268209},
