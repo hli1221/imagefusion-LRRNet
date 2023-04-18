@@ -35,7 +35,7 @@ Pytorch >= 1.8
 <img src="https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/fig-tracking-lrrnet-new.png" width="600">
 
 
-If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
+If you have any question about this code, feel free to reach me(lihui.cv@jiangnan.edu.cn, hui_li_jnu@163.com) 
 
 # Citation
 
