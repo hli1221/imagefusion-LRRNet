@@ -1,4 +1,4 @@
-# LRRNet: A novel representation learning guided fusion framework for infrared and visible images
+# LRRNet: A Novel Representation ZLearning Guided Fusion Framework for Infrared and Visible Images
 
 [Hui Li](https://hli1221.github.io/), [Tianyang Xu](https://xu-tianyang.github.io/), Xiao-Jun Wu*, Jiwen Lu, Josef Kittler  
 Accetped by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), DOI: 10.1109/TPAMI.2023.3268209  
