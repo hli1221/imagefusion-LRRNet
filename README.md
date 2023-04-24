@@ -2,7 +2,7 @@
 
 Accetped by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), DOI: 10.1109/TPAMI.2023.3268209  
 [Hui Li](https://hli1221.github.io/), [Tianyang Xu](https://xu-tianyang.github.io/), Xiao-Jun Wu*, Jiwen Lu, Josef Kittler  
-[paper](https://doi.org/10.1109/TPAMI.2023.3268209), [Arxiv](https://arxiv.org/abs/2304.05172), [Supplemental materials]
+[paper](https://doi.org/10.1109/TPAMI.2023.3268209), [Arxiv](https://arxiv.org/abs/2304.05172), [Supplemental materials](https://www.researchgate.net/publication/370215350_supplemental_materials_of_LRRNetpdf)
 
 
 ## Platform
