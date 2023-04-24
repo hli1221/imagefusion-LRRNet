@@ -4,6 +4,7 @@ Accetped by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAM
 [Hui Li](https://hli1221.github.io/), [Tianyang Xu](https://xu-tianyang.github.io/), Xiao-Jun Wu*, Jiwen Lu, Josef Kittler  
 [paper](https://doi.org/10.1109/TPAMI.2023.3268209), [Arxiv](https://arxiv.org/abs/2304.05172), [Supplemental materials](https://www.researchgate.net/publication/370215350_supplemental_materials_of_LRRNetpdf)
 
+<img src="[https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/fig-tracking-lrrnet-new.png](https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/fusion.gif)" width="600">
 
 ## Platform
 
@@ -31,8 +32,7 @@ Pytorch >= 1.8
 
 ## LLRR block for RGBT tracking - framework
 
-<img src="https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/fig-tracking-lrrnet-new.png" width="600">
-
+<img src="https://github.com/hli1221/imagefusion-LRRNet/blob/main/framework/fig-tracking-lrrnet-new.png" width="600">  
 
 If you have any question about this code, feel free to reach me(lihui.cv@jiangnan.edu.cn, hui_li_jnu@163.com) 
 
